@@ -4,10 +4,10 @@ int main() {
     while (1) {
         int primeiro = 0, segundo = 1, proximo, n;
     
-        printf("Digite o número de termos: ");
+        printf("Digite a quantidade de termos: ");
         scanf("%d", &n);
 
-        printf("Sequência de Fibonacci: ");
+        printf("Fibonacci: ");
 
         for (int i = 1; i <= n; ++i) {
             printf("%d, ", primeiro);
