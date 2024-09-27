@@ -21,8 +21,7 @@ Para executar localmente seguir os seguintes passos:
 `cd target-test-repository/target-test` - acesse o diretório  
 `npm install` - install dependencies  
 `npm start` - execute o servidor  
-`http://localhost:3000/` - access website cd   
-
+`http://localhost:3000/` - acessar site
 # Screenshots
 <img src="https://i.imgur.com/8XvLwTh.png" alt="Inicial">
 <img src="https://i.imgur.com/TJfNzDe.png" alt="Fibonacci">
